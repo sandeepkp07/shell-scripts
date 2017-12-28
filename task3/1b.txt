@@ -1,0 +1,2 @@
+In the code 1b.sh its printing all the programs in it by using '*' .
+If we delete '*' ,we get only the text in it.If we replace '*' with '_'.it jst prints it.

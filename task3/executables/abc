@@ -1,0 +1,5 @@
+ad=$2
+for ((i=$1; i<= $ad; i+=1 ))
+do
+    echo $i
+done
